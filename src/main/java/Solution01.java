@@ -11,7 +11,7 @@ public class Solution01
 
     /*
     prompt user to enter a name
-    reader that name into a string variable called name
+    read that name into a string variable called name
     print out the introduction of yourself/name
     */
 
